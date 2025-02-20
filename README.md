@@ -1,1 +1,1 @@
-This is a course about JavaScript form Udemy.
+This is a course about JavaScript from Udemy.
