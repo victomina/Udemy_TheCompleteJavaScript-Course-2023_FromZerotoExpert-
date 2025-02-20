@@ -1,0 +1,1 @@
+This is a course about JavaScript form Udemy.
